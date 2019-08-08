@@ -1,6 +1,6 @@
 # Programming Basics: Logical Operators
 
-## These exercises are aimed at making you familiar with logical operators. **Print all your checks to the console. Every capitalized word stands for the logical operator that you must use in each task. Make sure that you are using the *correct* logical operator.**
+These exercises are aimed at making you familiar with logical operators. **Print all your checks to the console. Every capitalized word stands for the logical operator that you must use in each task. Make sure that you are using the *correct* logical operator.**
 
 0. Declare two variables: "a" with the value of true, and "b" with the value of false. 
 
