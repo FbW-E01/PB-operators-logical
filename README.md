@@ -6,26 +6,28 @@
 
 1. Check the result of:
 
-- a AND b. 
+- a) a AND b. 
 
-- a OR b. 
+- b) a OR b. 
 
-- NOT a AND b. 
+- c) NOT (a AND b). 
 
 2. Declare three more variables "x", "y", "z". Give these variables number values. 
 
 3. Check the result of whether:
 
-- x is greater than z AND x is greater than y. 
+- a) x is greater than z AND x is greater than y. 
 
-- x is NOT equal to y. 
+- b) x is NOT equal to y. 
 
-- z is less than y OR z is greater than x. 
+- c) z is less than y OR z is greater than x. 
 
-- x is equal to z OR x is NOT equal to y.
+- d) x is equal to z OR x is NOT equal to y.
 
-- x is greater than or equal to 10 AND y is less than or equal to 10. 
+- e) x is greater than or equal to 10 AND y is less than or equal to 10. 
 
-- x multiplied by z is less than 100 OR whether x multiplied by y is greater than 100. 
+- f) x multiplied by z is less than 100 OR whether x multiplied by y is greater than 100. 
+
+4. BONUS: Explain in words the logic of each result in a comment after the result.
 
 
